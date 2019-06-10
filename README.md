@@ -21,6 +21,8 @@ The issue tracker is the preferred channel for [bug reports](#bugs) and
 
 * Please **do not** derail or troll issues. Keep the discussion on topic and
   respect the opinions of others.
+  
+* Please **do** tag your issues and let us know if this is a `bug` or a `feature request`.
 
 <a name="bugs"></a>
 ## Bug reports
