@@ -1,8 +1,8 @@
 # Ovio - Idea Box
-You recently visited [explore.ovio.org](explore.ovio.org) and have ideas or feedback for Ovio?
+You recently visited [ovio.org](https://ovio.org) and have ideas or feedback for Ovio?
 You're in the right place!
 
-# Contributing to Ovio Explore
+# Contributing to Ovio
 
 We are building Ovio for you, the organizations and volunteers using technology for good. We welcome all your feedback and ideas to keep improving your experience!
 
